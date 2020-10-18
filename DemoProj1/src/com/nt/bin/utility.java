@@ -2,8 +2,8 @@ package com.nt.bin;
 
 import java.util.Date;
 
-public class utility {
+public class Utility {
 	
-public Date getCcDate()
+public Date getSysDate()
 return new Date();
 }
